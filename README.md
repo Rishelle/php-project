@@ -1,1 +1,3 @@
-# php-project 
+<?php 
+echo 'hello world!';
+?>
